@@ -1,6 +1,6 @@
 <?php
 
-// +=n / -=n = penambahan/pengurangan senilai n
+// +=n / -=n : penambahan/pengurangan senilai n
 
 // Perulangan FOR
 for ($i = 1; $i <= 10; $i++) {
